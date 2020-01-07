@@ -21,5 +21,7 @@ struct Odeint
   Stepper s;
   int nstp;
   double x, h;
-  Odeint(vector<double>
+  Odeint(vector<double>)
+}
+	
   
